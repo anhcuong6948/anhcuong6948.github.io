@@ -218,7 +218,7 @@ padding-top: 40% !important;
 	position: relative;
 	display: block;
 	float: left;
-	width: calc(100% / 3 -20px);
+	width: calc(100% / 3 - 20px);
 	margin-left: 10px;
 	margin-right: 10px;
 	margin: 20px;
